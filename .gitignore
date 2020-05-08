@@ -1,0 +1,4 @@
+vendor/*
+cmake-build-autoloads.el
+cmake-build-autoloads.el~
+cmake-build.elc
